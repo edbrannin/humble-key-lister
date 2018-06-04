@@ -1,0 +1,12 @@
+{
+  "name": "humble-keys",
+  "version": "1.0.0",
+  "description": "List games with unredeemeed Humble keys",
+  "main": "index.js",
+  "author": "Ed Brannin <edbrannin@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
