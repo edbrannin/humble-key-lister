@@ -47,3 +47,17 @@ be correct about if you still have a good Humble Indie Bundle 2 key.
   ```
 
 * Delete the `www.humblebundle.com.har` file when you're done, so you don't forget it's there and someone later finds it and steals all your keys.
+
+## Future work
+
+If I ever work on this again, I might:
+
+* Support other `.har` filenames
+* Support different key types
+* Optionally Show revealed-key games
+* Show Steam ID
+* Make a website where you drag your .har file into the window and it
+  shows you a nice table with game names that link to Steam Store pages
+    * As nice as it would be, I probably won't do it because I don't want
+      to train people to make .har files and then give them to ANY website EVER.
+
